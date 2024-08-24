@@ -1,0 +1,22 @@
+{"version_code":3,"content":"
+
+<p>New Update v3.0</p>
+
+<li> Updated Base to release.00-9.29.1 </li>
+<li> Added Possibility to Add a reaction on Messages </li>
+<li> Added Possibility to Pin Chats </li>
+<li> Added option to change background in main screen to (trasparent - Custom Color - Gradient Color - Wallpaper - Custom Picture) </li>
+<li> Added option to change background in chats screen to (trasparent - Custom Color - Gradient Color - Wallpaper - Custom Picture) </li>
+<li> Added option to change app language </li>
+<li> Added option to save your themes and settings </li>
+<li> Added option to choose saved themes from files to apply </li>
+<li> Added option to reset all Settings to default </li>
+<li> Added option to create shortcut app in main screen in your phone </li>
+<li> Fixed disable auto update option </li>
+<li> Fixed color options issue </li>
+<li> Other Fixed </li>
+<li> More Improvment </li>
+
+","url":"https://www.abu2rab.com/2024/08/twitter-xgold.html"
+
+}
