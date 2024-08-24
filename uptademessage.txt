@@ -1,0 +1,37 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v2.50",
+    "com.twitter.android": "https://www.abu2rab.com/2024/08/twitter-xgold.html",
+	"com.twitter.goldmod": "https://www.abu2rab.com/2024/08/twitter-xgold.html",
+    "update_message": "
+<p>Update VØªØ­Ø¯ÙŠØ« 2.50</p>
+<li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 2.24.8.85</li>
+<li>ØªØ­Ø³ÙŠÙ† Ø§Ù„Ø­Ù…Ø§ÙŠØ© Ø¶Ø¯ Ø§Ù„Ø­Ø¸Ø±</li>
+<li>ØªØ­Ø³ÙŠÙ† Ø¥Ù…ÙƒØ§Ù†ÙŠØ© Ø±Ø¨Ø· Ø§Ù„Ø£Ø¬Ù‡Ø²Ø©</li>
+<li>Ø¥Ø¶Ø§ÙØ© Ù…Ø¤Ø«Ø±Ø§Øª Ù„Ù„Ø¯Ø±Ø¯Ø´Ø© (ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ø®ØªÙŠØ§Ø± Ø§Ù„Ù…Ø¤Ø«Ø±Ø§Øª Ù…Ù† Ø§Ø¶Ø§ÙØ§Øª Ø§Ù„Ø°Ù‡Ø¨ÙŠ)</li>
+<li>Ø¥Ø¶Ø§ÙØ© Ø£ÙŠÙ‚ÙˆÙ†Ø© Ù„Ù„ØªØ­ÙƒÙ… Ø¨Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„Ù„ÙŠÙ„ÙŠ Ù…Ù† Ø§Ù„Ø´Ø§Ø´Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© + Ø®ÙŠØ§Ø± Ù„Ø¥Ø®ÙØ§Ø¡ / Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø©</li>
+<li>Ø¥Ø¶Ø§ÙØ© Ø²Ø± Ø¹Ø§Ø¦Ù… ÙÙŠ Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø© Ù…ØªØ¹Ø¯Ø¯ Ø§Ù„Ù…Ù‡Ø§Ù… (ÙŠÙ…ÙƒÙ†Ùƒ ØªÙØ¹ÙŠÙ„Ù‡ Ù…Ù† Ø§Ø¶Ø§ÙØ§Øª Ø§Ù„Ø°Ù‡Ø¨ÙŠ Ø«Ù… Ø´Ø§Ø´Ø© Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø©)</li>
+<li>Ø¥Ø¶Ø§ÙØ© Ø²Ø± Ù„Ù„Ø°Ù‡Ø§Ø¨ Ø¥Ù„Ù‰ Ø£ÙˆÙ„ Ø±Ø³Ø§Ù„Ø© ÙÙŠ Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø©</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ù…Ø´ÙƒÙ„Ø© Ø¸Ù‡ÙˆØ± Ø§Ù„ØµØ­ÙŠÙ† Ø§Ù„Ø£Ø²Ø±Ù‚ ÙÙŠ ÙˆØ¶Ø¹ Ø§Ù„Ø´Ø¨Ø­ Ø¹Ù†Ø¯Ù…Ø§ ØªÙƒÙˆÙ† Ø¯Ø§Ø®Ù„ Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø©</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ø¹Ø¯Ù… Ø¸Ù‡ÙˆØ± Ø§Ù„Ù…Ø´Ø§Ø±ÙƒØ© Ù„Ù„Ø³ØªÙˆØ±ÙŠ Ø¹Ù†Ø¯ Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„ØªÙˆØ¬ÙŠÙ‡</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ø´Ø§Ø´Ø© One UI</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ø¥Ø®ÙØ§Ø¡ Ø§Ù„ØµØ­ÙŠÙ† Ø§Ù„Ù‚Ø±Ø§Ø¡Ø©</li>
+<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
+
+<li>Base Update: 2.24.8.85</li>
+<li>Improved Protection anti banned</li>
+<li>Improved Linking Devices</li>
+<li>Added Chat effects (you can choose effects from Gold settings)</li>
+<li> Added icon for controlling night mode from the main screen + option to hide/show the icon</li>
+<li>Added a floating multi-task button in the chat (you can enable it from Gold settings then chat screen)</li>
+<li>Added a button to go to the first message in the chat</li>
+<li>Fixed issue of blue ticks appearing in ghost mode when inside the chat</li>
+<li>Fixed issue of story sharing not appearing when forwarding</li>
+<li>Fixed One UI screen</li>
+<li> Fixed hiding the read receipts</li>
+<li>Other fixes</li>
+"
+    }
+}
